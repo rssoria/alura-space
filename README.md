@@ -1,4 +1,5 @@
 Projeto parte do estudo de React.js na plataforma Alura
+
 Pode ser acessado em: https://alura-space-gilt-omega.vercel.app/
 
 # Getting Started with Create React App
